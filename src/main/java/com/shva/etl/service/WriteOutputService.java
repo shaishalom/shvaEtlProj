@@ -7,9 +7,8 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
-
-import javax.xml.ws.Holder;
 
 import org.slf4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -126,7 +125,8 @@ public class WriteOutputService {
 	private void writeToTransactionDBTable(List<TransactionDTO> transactionDToList,  int startHourDisplay,int endHourDisplay)  {
 		// TODO Auto-generated method stub
 		StringBuilder sb = new StringBuilder();
-		Holder<Integer> holderCount = new Holder<>(0);
+		AtomicInteger counter = new AtomicInteger(0);
+		
 		transactionDToList.stream().forEach(tranDTO -> {
 			
 				 try {
@@ -135,10 +135,9 @@ public class WriteOutputService {
 					 logger.error("fail to update record:"+tranDTO);
 					 e.printStackTrace();
 				 }
-				 
-				 holderCount.value++;
+				 counter.getAndIncrement();
 		});
-		logger.info ("total lines insert to DB:" + holderCount);
+		logger.info ("total lines insert to DB:" + counter);
 		
 	}
 	
