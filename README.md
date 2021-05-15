@@ -19,11 +19,8 @@ the ETL will picked it up  when the time to be schedule, process(aggregate datas
 
 you can coonfig any DB you want (in application.properties):
 *spring.jpa.hibernate.ddl-auto=update*
-
 *spring.datasource.url=jdbc:mysql://localhost:3306/db*
-
 *spring.datasource.username=user*
-
 *spring.datasource.password=password*
 
 
