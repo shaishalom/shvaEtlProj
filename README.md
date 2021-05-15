@@ -10,10 +10,10 @@ the files in c:\shai\data shoud be :
 
 **C:\shai\data\<computer>\<month/year>\<file with date>.wl**
 
-e.g.
-C:\shai\data\BSGNY\0621\BSGNY_CALC060221.wl
-C:\shai\data\BSGNY\0621\BSGNY_CALC070221.wl
-C:\shai\data\BSGNY\0621\BSGNY_CALC080221.wl
+e.g. :
+- C:\shai\data\BSGNY\0621\BSGNY_CALC060221.wl
+- C:\shai\data\BSGNY\0621\BSGNY_CALC070221.wl
+- C:\shai\data\BSGNY\0621\BSGNY_CALC080221.wl
 
 the ETL will picked it up  when the time to be schedule, process(aggregate datas) it and upload the calculate data(transactions) into DB (mySQL)
 
