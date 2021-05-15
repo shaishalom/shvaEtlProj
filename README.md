@@ -1,6 +1,6 @@
 # shvaEtlProj
 
-** How to invoke it ? **
+How to invoke it ?
 ==============
 
 In order to invoke the program. You should locate an input folder according to the value in application.properties -> inputFolder :
