@@ -18,10 +18,10 @@ C:\shai\data\BSGNY\0621\BSGNY_CALC080221.wl
 the ETL will picked it up  when the time to be schedule, process(aggregate datas) it and upload the calculate data(transactions) into DB (mySQL)
 
 you can coonfig any DB you want (in application.properties):
-**`spring.jpa.hibernate.ddl-auto=update`**
-**`spring.datasource.url=jdbc:mysql://localhost:3306/db`**
-**`spring.datasource.username=user`**
-**`spring.datasource.password=password`**
+*spring.jpa.hibernate.ddl-auto=update*
+*spring.datasource.url=jdbc:mysql://localhost:3306/db*
+*spring.datasource.username=user*
+*spring.datasource.password=password*
 
 
 
