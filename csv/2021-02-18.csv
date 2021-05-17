@@ -1,0 +1,61 @@
+storeid,shopname,branchno,date,location,time,in-coming,out-coming
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,09:00,1,1
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,10:00,74,74
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,11:00,78,54
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,12:00,75,77
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,13:00,98,81
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,14:00,90,104
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,15:00,109,98
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,16:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,17:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,18:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,19:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,20:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,21:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,22:00,0,0
+deca,Decathlon Rishon,1001,18/02/2021,all entrances,23:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,09:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,10:00,7,10
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,11:00,17,12
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,12:00,17,17
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,13:00,18,14
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,14:00,26,22
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,15:00,29,23
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,16:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,17:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,18:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,19:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,20:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,21:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,22:00,0,0
+decaK,Decathlon Kraiot,1002,18/02/2021,all entrances,23:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,09:00,3,1
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,10:00,33,30
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,11:00,27,34
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,12:00,22,23
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,13:00,33,26
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,14:00,45,50
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,15:00,43,40
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,16:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,17:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,18:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,19:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,20:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,21:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,22:00,0,0
+DecaN,Decathlon Netania,1003,18/02/2021,all entrances,23:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,09:00,15,12
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,10:00,33,44
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,11:00,33,41
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,12:00,46,74
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,13:00,22,37
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,14:00,59,57
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,15:00,70,59
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,16:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,17:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,18:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,19:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,20:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,21:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,22:00,0,0
+DecaTA,Decathlon Tel Aviv,1004,18/02/2021,all entrances,23:00,0,0
